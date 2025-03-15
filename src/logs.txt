@@ -1,0 +1,18 @@
+🔍 End-Effector Position: [0. 0. 0.]
+🔹 Iteration 0: Current Pos [0. 0. 0.], Delta 1.503329637837291
+⚠️ Target may be unreachable! Asking LLM for adjustment...
+🔄 LLM adjusted target to: [0.4, 0.45, -0.45]
+📸 Screenshot saved: screenshot_1742064340.png
+🔍 End-Effector Position: [ 0.34479235  0.37458155 -0.2814769 ]
+🔹 Iteration 1: Current Pos [ 0.34479235  0.37458155 -0.2814769 ], Delta 0.1927066748637458
+⚠️ Target may be unreachable! Asking LLM for adjustment...
+🔄 LLM adjusted target to: [0.38, 0.41, -0.36]
+📸 Screenshot saved: screenshot_1742064343.png
+🔍 End-Effector Position: [ 0.37679713  0.405905   -0.3492518 ]
+🔹 Iteration 2: Current Pos [ 0.37679713  0.405905   -0.3492518 ], Delta 0.01193948419105173
+📸 Screenshot saved: screenshot_1742064344.png
+🔍 End-Effector Position: [ 0.38093467  0.41027214 -0.35725301]
+✅ Target reached successfully!
+✅ Task Complete!
+📸 Screenshot saved: screenshot_1742064344.png
+Do you want to reach a new target? (y/n): 
