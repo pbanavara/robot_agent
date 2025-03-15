@@ -11,5 +11,5 @@ python nearai_agent.py ( for the viewer)
 python nearai_agent_headless.py ( for the headless version)
 
 #### Benchmark
-please see the attached png which includes the given target and how the robot is
+please see src/logs.txt which includes the given target and how the robot is
 reaching that target powered by the LLM instructions.
